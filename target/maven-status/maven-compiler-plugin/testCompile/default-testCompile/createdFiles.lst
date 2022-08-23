@@ -1,0 +1,9 @@
+ru/praktikum_services/qa_scooter/CreateCourierTest.class
+ru/praktikum_services/qa_scooter/CreateCourierDoubleLoginTest.class
+ru/praktikum_services/qa_scooter/CreateDoubleCourierTest.class
+ru/praktikum_services/qa_scooter/CreateCourierEmptyPasswordTest.class
+ru/praktikum_services/qa_scooter/LoginCourierEmptyPasswordTest.class
+ru/praktikum_services/qa_scooter/LoginWrongCourierTest.class
+ru/praktikum_services/qa_scooter/LoginCourierTest.class
+ru/praktikum_services/qa_scooter/CreateOrderTest.class
+ru/praktikum_services/qa_scooter/GetOrdersTest.class
